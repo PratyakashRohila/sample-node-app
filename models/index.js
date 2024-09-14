@@ -6,7 +6,7 @@ const basename = path.basename(__filename);
 const db = {};
 const env = process.env.NODE_ENV || 'production';
 const dbConfig = require("../config/dbConfig")[env];
-let sequelize = new Sequelize(dbConfig.database, dbConfig.username, dbConfig.password, dbConfig.dialect);
+let sequelize = new Sequelize(dbConfig.database, dbConfig.username, dbConfig.password, dbConfig);
 
 fs.readdirSync(__dirname)
   .filter((file) => {
