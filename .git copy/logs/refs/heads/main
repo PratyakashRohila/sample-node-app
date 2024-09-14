@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 acb48acba55257ac6f6f83e8fee292da48e5cead daksheshrao <dakshesh.rao@cubastion.com> 1714196091 +0530	clone: from https://github.com/DaksheshRao/sample-node-app.git
-acb48acba55257ac6f6f83e8fee292da48e5cead 980fb4c07cc68e0507d13f1197adc1f4a24d972f daksheshrao <dakshesh.rao@cubastion.com> 1714196148 +0530	commit: Delete azure-pipelines.yml
-980fb4c07cc68e0507d13f1197adc1f4a24d972f c4d023f47f9183fb5aab941e0592e99e24b203fc daksheshrao <dakshesh.rao@cubastion.com> 1714207957 +0530	commit: Update config.js
-c4d023f47f9183fb5aab941e0592e99e24b203fc 1ab2b90cb6fa1528f35c8c3fce6ffa5740bf58c6 daksheshrao <dakshesh.rao@cubastion.com> 1714208258 +0530	revert: Revert "Update config.js"
-1ab2b90cb6fa1528f35c8c3fce6ffa5740bf58c6 bcc877087b13d0b7c142d237641163c3006f25a4 daksheshrao <dakshesh.rao@cubastion.com> 1714212317 +0530	revert: Reapply "Update config.js"
-bcc877087b13d0b7c142d237641163c3006f25a4 5ce3c905e318ab4fe9e039d49dd2aac5061c09bb daksheshrao <dakshesh.rao@cubastion.com> 1714213030 +0530	commit: Update startup.sh
-5ce3c905e318ab4fe9e039d49dd2aac5061c09bb 0387dfe5a57ad9b264c9c329cc2f685cfe039eb1 daksheshrao <dakshesh.rao@cubastion.com> 1714214188 +0530	commit: Update package.json
